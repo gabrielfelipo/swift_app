@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0od-43-U1g"; */
+"0od-43-U1g.text" = "Label";
+
+/* Class = "UILabel"; text = "TOTAL:"; ObjectID = "7HK-x6-2Dr"; */
+"7HK-x6-2Dr.text" = "TOTAL:";
+
+/* Class = "UILabel"; text = "0,00 R$"; ObjectID = "8ej-Ms-d5T"; */
+"8ej-Ms-d5T.text" = "0,00 R$";
+
+/* Class = "UILabel"; text = "CORES"; ObjectID = "I5f-VU-n5v"; */
+"I5f-VU-n5v.text" = "CORES";
+
+/* Class = "UILabel"; text = "TINTAS"; ObjectID = "Iv5-Dv-q0P"; */
+"Iv5-Dv-q0P.text" = "TINTAS";
+
+/* Class = "UIButton"; configuration.title = "CLEAR"; ObjectID = "PPZ-8Q-g8i"; */
+"PPZ-8Q-g8i.configuration.title" = "CLEAR";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PPZ-8Q-g8i"; */
+"PPZ-8Q-g8i.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "AGULHAS"; ObjectID = "bR8-u5-Cl0"; */
+"bR8-u5-Cl0.text" = "AGULHAS";
+
+/* Class = "UILabel"; text = "BIQUEIRAS"; ObjectID = "k4K-bI-Vew"; */
+"k4K-bI-Vew.text" = "BIQUEIRAS";
